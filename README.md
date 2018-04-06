@@ -15,7 +15,7 @@ $mchain = MultiChain::getInfo();
 ## Installation
 Require the package 
 ``` bash
-$ composer require ayou/laravel-multichain-api
+$ composer require keshav1990/laravel-multichain
 ```
 Add service provider class to `providers` section of `app.php` located in `config` directory 
 ``` 
